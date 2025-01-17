@@ -1,6 +1,7 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2dee0ecf-0c50-4b44-8bd5-28c08ba62eae">
+</p>
 <div align= "center">
-    ![Image](https://github.com/user-attachments/assets/2dee0ecf-0c50-4b44-8bd5-28c08ba62eae)
-
     <img src="https://capsule-render.vercel.app/api?type=soft&color=dbffee&height=120&text=Hyerin's%20GitHub&animation=twinkling&fontColor=ff52ae&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
