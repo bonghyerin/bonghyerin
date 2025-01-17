@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Image](https://github.com/user-attachments/assets/2dee0ecf-0c50-4b44-8bd5-28c08ba62eae)
 
 <!--
 **bonghyerin/bonghyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
