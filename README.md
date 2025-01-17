@@ -16,8 +16,8 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
     </div>
-
-<a href="https://github.com/bonghyerin/TIL"><img src="https://img.shields.io/badge/Python-0A6EFF?style=flat-square&logo=Python&logoColor=EBFBFF"/></a>
+<div align= "center">
+    <a href="https://github.com/bonghyerin/TIL"><img src="https://img.shields.io/badge/Python-0A6EFF?style=flat-square&logo=Python&logoColor=EBFBFF"/></a>
 
 <!--
 **bonghyerin/bonghyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
